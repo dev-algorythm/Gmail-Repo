@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.goog_lo{
+    padding-left: 190px;
+    padding-top: 30px;
+}
+.cont_mar{
+    margin: 150px 600px 0 380px;
+    width: 500px;
+    height: 580px;
+}
+.inp{
+    padding:10px 200px 10px 10px;
+    margin: 30px 25px 10px 40px;
+    font-size: 18px;
+}
+.forg_ema{
+    text-decoration:none;
+    padding-left: 50px;
+    font-weight: bold;
+}
+.lear_mor{
+    text-decoration:none;
+    padding-left: 50px;
+    font-weight: bold;
+}
+.nex_but{
+    background-color: rgb(70, 70, 245);
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-right:50px;
+    border: none;
+    border-radius: 7px;
+    padding: 8px 30px;
+}
+.las_ul{
+    margin-left: 350px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #757575;
+}
+.las_ul>li>select{
+    margin-right: 130px;
+    border: none;
+}
+.wel_num{
+    margin-left: 180px;
+    margin-top: 10px;
+    background-color: white;
+}
+.wel_check_bo{
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+}
